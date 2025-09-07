@@ -106,10 +106,14 @@ The dashboard is designed to answer the following business questions:
 
 ## 🚀 How to View
 1. **Interactive Version (Public Link)**  
-   Published via **Power BI Publish to Web** → [🔗 Link Here]  
+   Published via **Power BI Publish to Web** →[https://app.powerbi.com/groups/me/reports/0a2deb39-b581-4e91-83d5-0ccdb9b27c8a/17be63a8ea9e91219e9e?experience=power-bi]
+
 
 2. **Static Version (PDF & Screenshots)**  
-   Available in the repository under `/exports/` for quick viewing.  
+   ### Market Overview
+   ![Market Overview](https://github.com/paridhisingh18/airbnb-listings-and-review-analysis-powerbi/blob/main/images/MarketOverview.png)
+   ### Insights & Trends
+   ![Insights & Trends](https://github.com/paridhisingh18/airbnb-listings-and-review-analysis-powerbi/blob/main/images/Insight%26Trends.png)
 
 ---
 
