@@ -106,7 +106,7 @@ The dashboard is designed to answer the following business questions:
 
 ## 🚀 How to View
 1. **Interactive Version (Public Link)**  
-   Published via **Power BI Publish to Web** →[https://app.powerbi.com/groups/me/reports/0a2deb39-b581-4e91-83d5-0ccdb9b27c8a/17be63a8ea9e91219e9e?experience=power-bi]
+   Published via **Power BI Publish to Web** →(https://app.powerbi.com/view?r=eyJrIjoiZTIxMTRhOGQtYWVlYi00MDc5LWE5Y2UtNzQ1NTY1MzA5NjIyIiwidCI6IjJhYzEyMWViLTg1ZmUtNGQxMC05NTAxLWI1ZjY5ZDUyYmQ1OCJ9)
 
 
 2. **Static Version (PDF & Screenshots)**  
